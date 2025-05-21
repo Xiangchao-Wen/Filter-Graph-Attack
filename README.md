@@ -1,0 +1,2 @@
+# Filter-Graph-Attack
+ This project proposes a novel method to enhance adversarial attack efficiency by filtering out ineffective perturbations. Specifically, it targets two types of attacks: **evasion** and **poisoning**. The files `test_evasion.py` and `test_poisoning.py` implement the filtering mechanisms for evasion and poisoning attacks, respectively. Part of the attack generation code is adapted from the [PGA repository](https://github.com/PasaLab/PGA).  
